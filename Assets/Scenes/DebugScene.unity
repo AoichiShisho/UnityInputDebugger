@@ -661,7 +661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   settings: {fileID: 11400000, guid: 5a71cbc277a8f44dfb04a9f224c78be8, type: 2}
-  playerManager: {fileID: 0}
+  playerManager: {fileID: 915926378}
   playerCountText: {fileID: 998565233}
   increaseButton: {fileID: 514149749}
   decreaseButton: {fileID: 1253612615}
